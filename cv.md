@@ -12,4 +12,4 @@
   Modern Humanities Academy: Computer Science and Engineering
   Mr. English: English entry level
 </p>
-<p>Englesh level: A2 - Pre-intermidiate</p>
+<p>English level: A2 - Pre-intermidiate</p>
