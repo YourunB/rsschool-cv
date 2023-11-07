@@ -1,1 +1,1 @@
-# rsschool-cv
+https://yourunb.github.io/rsschool-cv/cv
